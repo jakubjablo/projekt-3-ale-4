@@ -1,0 +1,18 @@
+﻿  Source.cpp
+D:\1.ACiR\SEM 2\Projekty TP\Projekt 3\TP3\TP3\Source.cpp(36,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\1.ACiR\SEM 2\Projekty TP\Projekt 3\TP3\TP3\Source.cpp(39,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\1.ACiR\SEM 2\Projekty TP\Projekt 3\TP3\TP3\Source.cpp(40,27): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\1.ACiR\SEM 2\Projekty TP\Projekt 3\TP3\TP3\Source.cpp(91,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\1.ACiR\SEM 2\Projekty TP\Projekt 3\TP3\TP3\Source.cpp(92,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\1.ACiR\SEM 2\Projekty TP\Projekt 3\TP3\TP3\Source.cpp(93,40): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\1.ACiR\SEM 2\Projekty TP\Projekt 3\TP3\TP3\Source.cpp(94,40): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\1.ACiR\SEM 2\Projekty TP\Projekt 3\TP3\TP3\Source.cpp(113,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\1.ACiR\SEM 2\Projekty TP\Projekt 3\TP3\TP3\Source.cpp(114,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\1.ACiR\SEM 2\Projekty TP\Projekt 3\TP3\TP3\Source.cpp(115,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\1.ACiR\SEM 2\Projekty TP\Projekt 3\TP3\TP3\Source.cpp(116,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\1.ACiR\SEM 2\Projekty TP\Projekt 3\TP3\TP3\Source.cpp(134,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\1.ACiR\SEM 2\Projekty TP\Projekt 3\TP3\TP3\Source.cpp(135,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\1.ACiR\SEM 2\Projekty TP\Projekt 3\TP3\TP3\Source.cpp(136,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\1.ACiR\SEM 2\Projekty TP\Projekt 3\TP3\TP3\Source.cpp(137,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\1.ACiR\SEM 2\Projekty TP\Projekt 3\TP3\TP3\Source.cpp(337): warning C4715: 'WndProc': not all control paths return a value
+  TP3.vcxproj -> D:\1.ACiR\SEM 2\Projekty TP\Projekt 3\TP3\Debug\TP3.exe
